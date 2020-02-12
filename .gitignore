@@ -2,3 +2,4 @@
 __pycache__/
 .ipynb_checkpoints/
 processed_celeba_small/
+*.zip
